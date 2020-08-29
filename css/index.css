@@ -27,7 +27,6 @@
     left: 560px;
     bottom: 15px;
 }
-
 .photo1 {
     width: 100%;
     height: 500px;
@@ -77,4 +76,46 @@
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 14px;
+}
+
+.block{
+    background-color: rgb(214, 214, 214);
+    width: 100%;
+}
+.healthy{
+    padding-top: 30px;
+}
+.healthy, .healthyy {
+    padding-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.grid2 {
+    display: grid;
+    grid-template-columns: repeat(4, 170px);
+    grid-template-rows: 150px;
+    position: relative;
+    grid-column-gap: 30px;
+    padding-top: 30px;
+    justify-content: center;
+}
+.grid21 {
+    background-color: blue;
+}
+.grid22 {
+    background-color: green;
+}
+.grid23 {
+    background-color: red;
+}
+.grid24 {
+    background-color: purple;
+}
+.underphoto2{
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 14px;
+    background-color: white;
+    padding: 10px;
+    bottom: 14px;
 }

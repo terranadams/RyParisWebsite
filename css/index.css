@@ -45,8 +45,13 @@
     justify-content: center;
 }
 
+.images {
+    width: 250px;
+    height: 200px;
+}
 .grid11 {
     background-color: blue;
+
 }
 .grid12 {
     background-color: green;
@@ -80,6 +85,10 @@
     padding-top: 30px;
     justify-content: center;
 }
+.image2 {
+    height: 150px;
+    width: 170px;
+}
 .grid21 {
     background-color: blue;
 }
@@ -100,10 +109,6 @@
     background-color: white;
     padding: 10px;
     bottom: 14px;
-}
-.parastuff {
-    position: relative;
-    padding-left: 50px;
 }
 
 .footer {

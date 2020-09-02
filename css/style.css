@@ -139,6 +139,7 @@
     background-image: url("../images/RYPARIS_recipe.png");
     margin: 0;
     position: relative;
+    background-repeat: no-repeat;
 }
 
 .timestuff {
